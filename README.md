@@ -40,29 +40,9 @@ Let's take a quick tour of Ready2Drink!
 
 ### Features:
 
-#### Monitor the Real-Time Temperature of Your Drink
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-1monitoring.png" width="360" height="640">
-</p>
-
-#### Select a Custom Temperature for Your Drink
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-2customtemp.png" width="360" height="640">
-</p>
-
-#### Select an Optimal Temperature Preset
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-3preset.png" width="360" height="640">
-</p>
-
-#### Get Notified When Your Drink is Ready
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-4readynotification.png" width="360" height="640">
-</p>
+| [![MonitoringTemp](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-1monitoring.png)](https://github.com/jamesadhitthana/)  | [![SelectingCustomTemp](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-2customtemp.png)](https://github.com/jamesadhitthana/)  | [![SelectingPresets](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-3preset.png)](https://github.com/jamesadhitthana/) | [![ReadyNotif](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-4readynotification.png)](https://github.com/jamesadhitthana/) |
+|:---:|:---:|:---:|:---:|
+| Monitor the Real-Time Temperature of Your Drink | Select a Custom Temperature for Your Drink | Select an Optimal Temperature Preset | Get Notified When Your Drink is Ready |
 
 # How it Works:
 Ready2Drink utilizes an Arduino microcontroller connected to a stainless steel DS18B20 temperature probe that you insert in your drink tomonitor the drink's real-time temperature. Using Bluetooth, the Arduino microcontroller reads the real-time temperature in your drink and then sends the drink's temperature to the android app. The application automatically monitors the temperature and provides notification when the drink temperature is optimal to drink (usually 49 °C up to 60°C for hot coffee). When the drink is ready, the app automatically sends a notification. Then you can remove the temperature probe and rinse the probe with tap water and enjoy your drink.
