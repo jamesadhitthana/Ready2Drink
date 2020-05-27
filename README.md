@@ -28,11 +28,15 @@ Let's take a quick tour of Ready2Drink!
 
 #### Getting Started with Ready2Drink
 
-![hello-ready2drink](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-onboarding.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-onboarding.gif" width="360" height="640">
+</p>
 
 #### Selecting a temperature for your Drink
 
-![hello-ready2drink](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-selectingatemp.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-selectingatemp.gif" width="360" height="640">
+</p>
 
 ### Features:
 
