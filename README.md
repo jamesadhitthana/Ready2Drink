@@ -24,6 +24,16 @@ Through extensive research, we have found the optimal temperature for you to enj
 
 Let's take a quick tour of Ready2Drink!
 
+### Quick Demo:
+
+#### Getting Started with Ready2Drink
+
+![hello-ready2drink](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-onboarding.gif)
+
+#### Selecting a temperature for your Drink
+
+![hello-ready2drink](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-demo-selectingatemp.gif)
+
 ### Features:
 
 #### Monitor the Real-Time Temperature of Your Drink
@@ -71,13 +81,13 @@ Ready2Drink utilizes an Arduino microcontroller connected to a stainless steel D
 - 1x HC-05 Bluetooth Module
 - 1x Potensiometer
 - 1x LCD 1602 (16X2) Display
-- 1x PIN HEADER SET (Untuk di solder ke LCD)
+- 1x PIN HEADER SET (for the LCD)
 - Jumper Cables
 - 2x Resistor 330 OHM
 - 2x Resistor 10K OHM
 - 2x Resistor 1K OHM
 - 1x Soldering iron
-- 1x Timah solder
+- 1x Solder
 
 ## Authors
 
