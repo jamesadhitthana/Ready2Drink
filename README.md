@@ -20,6 +20,28 @@ Through extensive research, we have found the optimal temperature for you to enj
 2. Enter the temperature probe into your drink
 3. When the notification on your phone rings and appears, your drink is ready to drink!
 
+## Huddlr Tour
+
+Let's take a quick tour of Ready2Drink!
+
+### Features:
+
+#### Monitor the Real-Time Temperature of Your Drink
+
+![ready2drink-MonitoringDrinks](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-1monitoring.png)
+
+#### Select a Custom Temperature for Your Drink
+
+![ready2drink-ChoosingCustomTemperature](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-2customtemp.png)
+
+#### Select an Optimal Temperature Preset
+
+![ready2drink-ChoosingADrinkPreset](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-3preset.png)
+
+#### Get Notified When Your Drink is Ready
+
+![ready2drink-DrinkIsReadyNotificationScreen](https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-4readynotification.png)
+
 # How it Works:
 Ready2Drink utilizes an Arduino microcontroller connected to a stainless steel DS18B20 temperature probe that you insert in your drink tomonitor the drink's real-time temperature. Using Bluetooth, the Arduino microcontroller reads the real-time temperature in your drink and then sends the drink's temperature to the android app. The application automatically monitors the temperature and provides notification when the drink temperature is optimal to drink (usually 49 °C up to 60°C for hot coffee). When the drink is ready, the app automatically sends a notification. Then you can remove the temperature probe and rinse the probe with tap water and enjoy your drink.
 
