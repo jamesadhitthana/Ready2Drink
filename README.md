@@ -26,7 +26,7 @@ Let's take a quick tour of Ready2Drink!
 
 ### Features:
 
-#### Monitor the Real-Time Temperature of Your Drink
+<h4 align="center">Monitor the Real-Time Temperature of Your Drink</h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jamesadhitthana/Ready2Drink/master/Screenshots/ready2drink-1monitoring.png" width="360" height="640">
